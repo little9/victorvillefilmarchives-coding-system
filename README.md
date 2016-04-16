@@ -1,4 +1,4 @@
-# [Victorville File Archives Coding System](http://victorvillefilmarchives.org/)
+# [Victorville Film Archives Coding System](http://victorvillefilmarchives.org/)
 
 Created by film buff and expert [Gregg Turkington](https://twitter.com/greggturkington).
 
